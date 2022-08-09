@@ -1,5 +1,5 @@
 const apiInfo = {
-    key: "API_KEY",
+    key: "API KEY",
 };
 
 export default apiInfo;
